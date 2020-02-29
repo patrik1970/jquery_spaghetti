@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradleylandis/clean-code-in-the-browser-episode-1.git"
+    "url": "git+https://github.com/patrik1970/jquery_spaghetti.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bradleylandis/clean-code-in-the-browser-episode-1/issues"
+    "url": "https://github.com/patrik1970/jquery_spaghetti/issues"
   },
-  "homepage": "https://github.com/bradleylandis/clean-code-in-the-browser-episode-1#readme",
+  "homepage": "https://github.com/patrik1970/jquery_spaghetti#readme",
   "devDependencies": {
     "phantomjs": "^2.1.7",
     "testem": "^1.15.0"
