@@ -1,0 +1,29 @@
+{
+  "name": "jquerytest",
+  "version": "1.0.0",
+  "description": "Example from https://cleancoders.com/episode/clean-code-in-the-browser-episode-1/show",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "testem ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleylandis/clean-code-in-the-browser-episode-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleylandis/clean-code-in-the-browser-episode-1/issues"
+  },
+  "homepage": "https://github.com/bradleylandis/clean-code-in-the-browser-episode-1#readme",
+  "devDependencies": {
+    "phantomjs": "^2.1.7",
+    "testem": "^1.15.0"
+  },
+  "dependencies": {
+    "npm": "^6.10.2"
+  }
+}
